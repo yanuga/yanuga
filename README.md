@@ -52,6 +52,12 @@
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></a>&nbsp;
 <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" width="40"/></a>&nbsp;
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanuga/yanuga/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yanuga/yanuga/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yanuga/yanuga/output/github-snake.svg" />
+</picture>
+
 <h2>🌐 Connect with Me</h2>
 <a href="https://www.linkedin.com/in/rajamohan-yanuga/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 <a href="https://fayou.cloud"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f310.svg" width="40" height="40"/></a>
